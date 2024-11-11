@@ -3,7 +3,7 @@ module.exports = {
   // Facebook App Credentials
   appSecret: 'your_app_secret',
   accessToken: 'your_page_access_token',
-  verifyToken: 'your_verify_token',
+  verifyToken: 'pagebot',
 
   // Server Settings
   port: process.env.PORT || 3001,
